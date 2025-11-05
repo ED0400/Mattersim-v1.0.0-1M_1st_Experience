@@ -240,4 +240,4 @@ Special thanks to:
 
 ---
 
-Would you like me to **add live links to the figures** (e.g., your real phonon plot or Cv vs T plot) so they appear directly in the README on GitHub (with `![plotname](figures/phonon_si.png)`) — or keep it text-only for now?
+
